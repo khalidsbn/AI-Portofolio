@@ -6,16 +6,16 @@
 
 ## Paper Implementation ##
 ### [Implementing AlexNet in PyTorch](https://github.com/khalidsbn/Implementing-AlexNet-in-PyTorch)
-- Re-creates the 2012 ImageNet-winning AlexNet architecture (5 conv + 3 FC layers) entirely in PyTorch, staying faithful to kernel sizes, strides and LRN/dropout details. :contentReference[oaicite:0]{index=0}  
-- Single, well-commented `alexnet.py` and an explanatory README break the model down layer-by-layer with spatial-dimension math — great for pedagogy or quick experiments. :contentReference[oaicite:1]{index=1}  
-- Lightweight repo (one script + docs) that compiles and trains out-of-the-box, making it an easy reference for CNN fundamentals in your portfolio. :contentReference[oaicite:2]{index=2}  
+- Re-creates the 2012 ImageNet-winning AlexNet architecture (5 conv + 3 FC layers) entirely in PyTorch, staying faithful to kernel sizes, strides and LRN/dropout details. 
+- Single, well-commented `alexnet.py` and an explanatory README break the model down layer-by-layer with spatial-dimension math — great for pedagogy or quick experiments.
+- Lightweight repo (one script + docs) that compiles and trains out-of-the-box, making it an easy reference for CNN fundamentals in your portfolio.
 
 ### [ImageNet Insights](https://github.com/khalidsbn/ImageNet-Insights)
-- Deep-dive summary of the 2009 ImageNet paper, plus the original PDF for reference. Covers scale (3.2 M images / 5,247 synsets) and WordNet-based hierarchy. :contentReference[oaicite:3]{index=3}  
-- Walks through the two-stage data-collection pipeline (web scraping → Mechanical Turk vetting) that achieved ~99.7 % label precision. :contentReference[oaicite:4]{index=4}  
-- Compares ImageNet to Caltech-256, TinyImages, etc., highlighting why its density and hierarchy changed computer-vision benchmarks. :contentReference[oaicite:5]{index=5}  
-- Outlines key applications—object recognition, tree-based classification, localization—and how ImageNet sparked architectures from AlexNet to ResNet. :contentReference[oaicite:6]{index=6}  
-- Includes a ready-to-run PyTorch snippet for loading ImageNet and notes on using pre-trained models for transfer learning. :contentReference[oaicite:7]{index=7}  
+- Deep-dive summary of the 2009 ImageNet paper, plus the original PDF for reference. Covers scale (3.2 M images / 5,247 synsets) and WordNet-based hierarchy. 
+- Walks through the two-stage data-collection pipeline (web scraping → Mechanical Turk vetting) that achieved ~99.7 % label precision. 
+- Compares ImageNet to Caltech-256, TinyImages, etc., highlighting why its density and hierarchy changed computer-vision benchmarks. 
+- Outlines key applications—object recognition, tree-based classification, localization—and how ImageNet sparked architectures from AlexNet to ResNet. 
+- Includes a ready-to-run PyTorch snippet for loading ImageNet and notes on using pre-trained models for transfer learning. 
 
 ## End to End Projects ##
 ### [Spotify Pipeline](https://github.com/khalidsbn/AudioFamePipeline)
