@@ -43,7 +43,6 @@
 
 ### Fine-Tuning LLMs ###
 
-
 ### Reterival Augmented Generation (RAG) Application ###
 
 ### Prompt Engineering ###
@@ -80,23 +79,6 @@
 ### Natural Language Processing 
 
 ---
-
-### Time-series Analysis
-
----
-
-### Data Visulization:
-
----
-
-### Spark 
-
----
-
-### Data Modeling 
-
----
-
 
 
 ### Certificates 
